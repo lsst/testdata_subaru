@@ -12,4 +12,4 @@ for details.
 .. _LSST DM Stack: http://dm.lsst.org/
 .. _obs_subaru: https://github.com/lsst/obs_subaru
 .. _Git LFS: https://git-lfs.github.com
-.. _relevant LSST documentation: http://docs.lsst.codes/en/latest/development/git_lfs.html
+.. _relevant LSST documentation: http://developer.lsst.io/en/latest/tools/git_lfs.html
