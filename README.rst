@@ -9,7 +9,7 @@ testing the `LSST Data Management Stack`_. This is a companion package to
 Data is stored using `Git LFS`_; refer to the `relevant LSST documentation`_
 for details.
 
-.. _LSST DM Stack: http://dm.lsst.org/
+.. _LSST Data Management Stack: http://dm.lsst.org/
 .. _obs_subaru: https://github.com/lsst/obs_subaru
 .. _Git LFS: https://git-lfs.github.com
 .. _relevant LSST documentation: http://developer.lsst.io/en/latest/tools/git_lfs.html
